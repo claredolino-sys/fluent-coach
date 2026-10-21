@@ -1,0 +1,6 @@
+{
+  "name": "Fluent Coach",
+  "description": "Personal English speaking practice coach with speech assessment, pronunciation scoring, fluency analytics, and live AI coaching.",
+  "permissions": [],
+  "capabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
